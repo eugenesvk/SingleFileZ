@@ -121,5 +121,6 @@
 	"devtools_page": "src/core/devtools/devtools.html",
 	"incognito": "spanning",
 	"manifest_version": 2,
-	"default_locale": "en"
+	"default_locale": "en",
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5EjEjyyYgI6SiYOpQ4VqRF2K1YZ38orm/8Y86dePJM9BXitNfGeWoANZyt7zUaV69a9hRg6PxM7Y4DfS1GqqcgyFVGjY2QaY0AGUgBim0olTpbUagcQIqMYAkZqMOun8wwE1LfUUgYNIQA5DgMpmP6KLTK2zKPvnHucWc8ZjckKNgBRDpLiyNE3uoig02gXKGHF4Fxq20eQKvP6zBmaxl5Nk/IvgLLgbrcu0fppfOBWPjkrPlmTyJZx/K5VuQWgIfh+6aGTb1R/fAefWK0+70ELUQhT6QNjnLV1Y61W7l/py+mKoYYMTy+lijkw7M25hjMnNkmuOxF1J9seNuofrBQIDAQAB"
 }
