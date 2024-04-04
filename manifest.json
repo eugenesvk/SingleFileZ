@@ -42,13 +42,6 @@
 		"persistent": false
 	},
 	"options_page": "src/ui/pages/options.html",
-	"sidebar_action": {
-		"browser_style": true,
-		"default_title": "SingleFileZ",
-		"default_panel": "src/ui/pages/panel.html",
-		"default_icon": "src/ui/resources/icon_128.png",
-		"open_at_install": false
-	},
 	"options_ui": {
 		"browser_style": true,
 		"page": "src/ui/pages/options.html",
