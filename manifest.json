@@ -105,12 +105,6 @@
 		"webRequest",
 		"webRequestBlocking"
 	],
-	"browser_specific_settings": {
-		"gecko": {
-			"id": "{e4db92bc-3213-493d-bd9e-5ff2afc72da6}"
-		},
-		"gecko_android": {}
-	},
 	"devtools_page": "src/core/devtools/devtools.html",
 	"incognito": "spanning",
 	"manifest_version": 2,
